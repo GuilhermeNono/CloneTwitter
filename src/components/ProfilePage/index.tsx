@@ -13,6 +13,8 @@ import {
   EditButton
 } from './styles';
 
+import Feed from '../Feed'
+
 const ProfilePage: React.FC = () => {
   return (
     <Container>
@@ -48,8 +50,8 @@ const ProfilePage: React.FC = () => {
         </Followage>
       </ProfileData>
 
-      {/* TODO: FEED -> 01:07:15*/}
       <Feed />
+
     </Container>
   );
 };
