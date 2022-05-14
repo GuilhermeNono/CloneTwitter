@@ -1,4 +1,4 @@
-# Twitter(Clone)
+# Twitter - User Feed (Clone)
 ## 📖 Descrição 
 <p>O Twitter, é uma das maiores rede sociais atualmente . Para o desenvolvimento do clone, foi utilizado typescript, React e Styled Components. </p>
 
