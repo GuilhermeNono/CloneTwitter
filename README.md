@@ -13,7 +13,7 @@
 - [ ] Desenvolver a interface do usuario presente no twitter.
 
 #
-![TwitterInterface](https://saocarlosemrede.com.br/wp-content/uploads/2020/01/placeholder-1200x500-1.png)
+![TwitterInterface](https://i.imgur.com/QUW0bTU.png)
 
 ### 🛠 Tecnologias
 
